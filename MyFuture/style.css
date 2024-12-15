@@ -81,10 +81,44 @@ footer{
     justify-content: center;
     align-items: center;
     gap: 80px;
+    padding-bottom: 40px;
   }
 
   .containerchild{
     width: 30%;
     height: auto;
   }
+
+  .alignment{
+    padding-left: 80px;
+    padding-bottom: 40px;
+  }
+
+  .dayimage{
+    width: 35%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   margin-bottom: 40px;
+  }
+
+  .daycontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    padding-bottom: 40px;
+  }
+
+  .dreamimage{
+    width: 35%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   margin-bottom: 40px;
+  }
+
+ 
 
