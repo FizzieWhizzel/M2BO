@@ -76,3 +76,15 @@ footer{
     margin: 20px;
   }
 
+  .imgcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+  }
+
+  .containerchild{
+    width: 30%;
+    height: auto;
+  }
+
