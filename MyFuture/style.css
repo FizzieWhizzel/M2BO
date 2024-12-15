@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Mono';
+}
+
+body{
+    font-size: 16px;
+    background-color: #713E84;
+}
+header, footer{
+    background-color: #EDC6FF;
+    height: 60px;
+    width: 100%;
+}
+
+footer{
+  height: 40px;
+}
+
+.main{
+    background-color: #B9B9B9;
+    width: 80vw;
+    margin: 0px auto;
+    padding-bottom: 20px;
+}
+
+.topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: #713E84;
+  }
+
+  .subheader{
+    padding: 20px;
+    padding-left: 80px;
+  }
+
+
+  .hardSkills{
+    display: block;
+    height: auto;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .softSkills{
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+  }
+
+  .h3soft{
+    margin: 10px;
+  }
+
+  .softSkillsSub{
+    background-color: white;
+    width: 300px;
+    text-align: center;
+  }
+
+  ul{
+    list-style: none;
+  }
+
+  .list{
+    margin: 20px;
+  }
+
